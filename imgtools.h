@@ -1,6 +1,4 @@
-// Tran Tran
-// cs212-01
-// 
+
 // The header file contains the function prototypes.
 
 #ifndef _STRPROC_H
