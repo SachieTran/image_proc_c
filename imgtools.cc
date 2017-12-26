@@ -1,8 +1,3 @@
-// Tran Tran
-// cs212-01
-// an image toolkit that provides tools for manipulating and filtering
-// digital images.
-
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
