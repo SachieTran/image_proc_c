@@ -1,5 +1,4 @@
-// Tran Tran
-// cs212-01
+
 // an image processing program (imgproc.cc) that uses your image toolkit.
 
 #include <stdio.h>
